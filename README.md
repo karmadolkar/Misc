@@ -1,5 +1,5 @@
-##Welcome!
+Welcome!
 
-#Misc Respository
+Misc Respository
 
 Contains miscellaneous blocks of code. :)
